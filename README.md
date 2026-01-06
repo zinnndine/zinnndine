@@ -5,7 +5,7 @@ I build small, useful tools for scheduling, optimization, and data analysis.
 **Open to freelance work & short contracts.**
 
 ## Technical Skills
-- Languages: Python, C++, SQL 
+- Languages: Python, C++, SQL  , HTML/CSS
 - Tools: Git, GitHub Actions, CPLEX  
 
 ## Other Skills
