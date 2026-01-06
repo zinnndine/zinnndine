@@ -1,4 +1,4 @@
-# Hi — I'm Zino 👋
+# Hi I'm Zino 👋
 **Applied Mathematician & Data Analyst • C++ & Python • Scheduling & Optimization**
 
 I build small, useful tools for scheduling, optimization, and data analysis.  
